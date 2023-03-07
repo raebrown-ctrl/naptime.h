@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # naptime.h
 
-Mike made a branch
+Mike made a branch Yay
 =======
 Group Name: NapTime.h
 Tag Line: "Where sleep and coding are highly encouraged."
